@@ -1,0 +1,4 @@
+2016-10-16 16:40:09,747 [Worker-31] INFO  org.eclipse.jetty.util.log - Logging initialized @1560810ms
+2016-10-16 16:40:10,588 [Worker-31] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2016-10-16 16:40:10,648 [Worker-31] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@652022b8{HTTP/1.1}{0.0.0.0:50636}
+2016-10-16 16:40:10,649 [Worker-31] INFO  org.eclipse.jetty.server.Server - Started @1561747ms

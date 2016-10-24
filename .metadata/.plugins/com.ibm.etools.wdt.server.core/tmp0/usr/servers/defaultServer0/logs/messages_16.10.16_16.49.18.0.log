@@ -1,0 +1,30 @@
+********************************************************************************
+product = WebSphere Application Server 8.5.5.4 (wlp-1.0.7.cl50420141211-1039)
+wlp.install.dir = C:/Users/SangiSaran/Downloads/eclipse-jee-mars-2-win32-x86_64/eclipse/configuration/org.eclipse.osgi/1131/0/.cp/resources/server_runtime/
+server.config.dir = C:/Users/SangiSaran/workspace/Java/Sample/.metadata/.plugins/com.ibm.etools.wdt.server.core/tmp0/usr/servers/defaultServer0/
+java.home = C:\Program Files\Java\jre1.8.0_92
+java.version = 1.8.0_92
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_92-b14)
+os = Windows 10 (10.0; amd64) (en_US)
+process = 1244@EnKanini
+********************************************************************************
+[10/16/16 16:15:53:700 EDT] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server defaultServer0 has been launched.
+[10/16/16 16:15:54:860 EDT] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 1.369 seconds
+[10/16/16 16:15:54:887 EDT] 00000018 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[10/16/16 16:15:55:976 EDT] 00000010 com.ibm.ws.app.manager.internal.monitor.DropinMonitor        A CWWKZ0058I: Monitoring dropins for applications. 
+[10/16/16 16:15:56:100 EDT] 0000001a com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0219I: TCP Channel defaultHttpEndpoint has been started and is now listening for requests on host *  (IPv6) port 8080.
+[10/16/16 16:15:56:477 EDT] 00000020 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application proxy.
+[10/16/16 16:15:56:832 EDT] 00000020 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Ajax Proxy for IBM WebSphere.
+[10/16/16 16:15:56:835 EDT] 00000020 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Ajax Proxy for IBM WebSphere has been bound to default_host.
+[10/16/16 16:15:56:836 EDT] 00000020 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://enkanini:8080/proxy/
+[10/16/16 16:15:56:840 EDT] 00000020 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application proxy started in 0.364 seconds.
+[10/16/16 16:15:56:856 EDT] 00000018 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [servlet-3.0, jsp-2.2, json-1.0, localConnector-1.0, jaxrs-1.1].
+[10/16/16 16:15:56:856 EDT] 00000018 com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 1.997 seconds.
+[10/16/16 16:15:56:856 EDT] 00000018 com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0011I: The server defaultServer0 is ready to run a smarter planet.
+[10/16/16 16:17:57:983 EDT] 00000016 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0016I: Starting server configuration update.
+[10/16/16 16:17:58:063 EDT] 00000024 com.ibm.ws.config.xml.internal.ConfigRefresher               A CWWKG0017I: The server configuration was successfully updated in 0.100 seconds.
+[10/16/16 16:17:58:080 EDT] 00000023 com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Starting application sample.
+[10/16/16 16:17:58:183 EDT] 00000023 com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: Loading Web Module: Hello, World Application.
+[10/16/16 16:17:58:183 EDT] 00000023 com.ibm.ws.webcontainer                                      I SRVE0250I: Web Module Hello, World Application has been bound to default_host.
+[10/16/16 16:17:58:183 EDT] 00000023 com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Web application available (default_host): http://enkanini:8080/sample/
+[10/16/16 16:17:58:185 EDT] 00000023 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0001I: Application sample started in 0.105 seconds.

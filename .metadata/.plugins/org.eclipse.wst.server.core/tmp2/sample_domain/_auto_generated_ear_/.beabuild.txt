@@ -1,0 +1,4 @@
+C\:/Users/SangiSaran/workspace/Java/Sample/sample/WebContent = sample.war
+C\:/Users/SangiSaran/workspace/Java/Sample/.metadata/.plugins/org.eclipse.core.resources/sample/build/weboutput = sample.war
+C\:/Users/SangiSaran/workspace/Java/Sample/sample/build/classes = sample.war/WEB-INF/classes
+C\:/Users/SangiSaran/workspace/Java/Sample/sample/ImportedClasses = sample.war/WEB-INF/classes
